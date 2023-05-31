@@ -37,4 +37,5 @@ To use the Sales Analysis Python project, please follow these steps:
 - Open the Sales Analysis file (e.g., Sales Analysis.ipynb) in your Python environment, ensuring that the folder with the data CSV files is in the same directory.
 - Execute the code cells in order in the notebook or run the Python script to perform the analysis.
 - Review the generated visualizations and analysis outputs to gain insights into the sales data and find answers to the provided analysis questions.
+
 By following these steps, you can easily set up and run the Sales Analysis Python project on your local machine, allowing you to explore the provided sales data and derive meaningful insights from it.
