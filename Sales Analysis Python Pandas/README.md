@@ -28,14 +28,14 @@ To solve these analysis questions, the project utilized the following methods an
 - Counter and combinations: The Counter class from the collections module and the combinations function from the itertools module were imported to assist in counting pairs of combinations within a list. These functionalities were used to analyze the frequently sold product pairs.
 - Matplotlib: The Matplotlib library was used for data visualization purposes. It provided a wide range of plotting functions to create informative charts and graphs that helped in understanding the sales data and presenting the analysis results effectively.
 
-**How to Use**
+**Repository Contents**
 
-To use the Sales Analysis Python project, please follow these steps:
-- Download the data files from the provided source or visit Keith Galli's GitHub repository (KeithGalli/Pandas-Data-Science-Tasks) to find the original files.
-- Open up Jupyter Notebook or any Python environment of your choice.
-- Navigate to the directory where you have the Sales Analysis project files.
-- Open the Sales Analysis file (e.g., Sales Analysis.ipynb) in your Python environment, ensuring that the folder with the data CSV files is in the same directory.
-- Execute the code cells in order in the notebook or run the Python script to perform the analysis.
-- Review the generated visualizations and analysis outputs to gain insights into the sales data and find answers to the provided analysis questions.
+This repository includes the following files and folders:
 
-By following these steps, you can easily set up and run the Sales Analysis Python project on your local machine, allowing you to explore the provided sales data and derive meaningful insights from it.
+- Sales Analysis.ipynb: Jupyter file containing the data cleaning, data querying and data analysis performed on the dataset.
+- Sales_Data: Folder containing the CSV files of data for each month
+- combined_data.csv: CSV file containing the combined data obtained from the Python code
+
+Feel free to explore the files and folders to gain a comprehensive understanding of the project's implementation.
+
+Note: It is recommended to have Jupyter Notebook installed to replicate and explore the project locally.
