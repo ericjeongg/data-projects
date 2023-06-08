@@ -1,4 +1,4 @@
-**Sales Analysis Python Project**
+**Sales Analysis**
 
 Set of real world data science tasks completed using the Python Pandas library. The project was originally created by [Keith Galli](https://github.com/KeithGalli). 
 The data sets used in this project were provided and include sales data for each month of the year, separated into separate CSV files. The data contains hundreds of thousands of electronics store purchases, broken down by month, product type, cost, purchase address, and other relevant information.
