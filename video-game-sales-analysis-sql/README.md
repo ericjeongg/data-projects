@@ -9,7 +9,7 @@ This repository contains a data analysis project that aims to analyze sales data
 
 **Dataset**
 
-The dataset used for this project can be sourced from Kaggle at the following link: <a href="https://www.kaggle.com/datasets/gregorut/videogamesales" target="_blank">Video Game Sales Data</a>. It consists of a list of video games with sales greater than 100,000 copies.
+The dataset used for this project can be sourced from Kaggle at the following link: [Video Game Sales Data](https://www.kaggle.com/datasets/gregorut/videogamesales). It consists of a list of video games with sales greater than 100,000 copies.
 
 **Data Analysis Questions**
 
