@@ -1,4 +1,4 @@
-**Video Game Sales Analysis**
+**Video Game Sales Data Analysis**
 
 This repository contains a data analysis project that aims to analyze sales data of videos games that have sold greater than 100,000 copies, obtained from Kaggle. The project focuses on answering various queries related to video game sales, platform popularity, genre performance, sales evolution over time, top publishers, regional sales differences, and games with the highest global sales. The analysis is performed using MySQL for querying the data and Power BI for data visualization.
 
