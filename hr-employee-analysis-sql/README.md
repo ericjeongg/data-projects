@@ -7,6 +7,9 @@ This repository contains a data analysis project that focuses on exploring and a
 - MySQL: for data querying 
 - PowerBI: for data visualisation
 
+**Languages**
+- SQL
+
 **Dataset**
 
 The dataset used for this project is available in the repository as a CSV file. It provides comprehensive information about employees, enabling HR teams to gain valuable insights into various aspects of their workforce.
