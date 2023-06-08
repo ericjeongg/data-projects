@@ -9,7 +9,7 @@ This repository contains a data analysis project that aims to analyze sales data
 
 **Dataset**
 
-The dataset used for this project can be sourced from Kaggle at the following link: Video Game Sales Dataset. It consists of a list of video games with sales greater than 100,000 copies.
+The dataset used for this project can be sourced from Kaggle at the following link: [Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales). It consists of a list of video games with sales greater than 100,000 copies.
 
 **Data Analysis Questions**
 
@@ -33,7 +33,7 @@ The project includes a Power BI dashboard that provides visual representations o
 - Top Platforms: A bar graph displaying the platforms with the most games exceeding 100,000 copies in sales.
 - Genre Sales Over Time: An interactive bar graph and line graph combination representing the total sales of genres and their respective sales by year.
 
-Dashboard Screenshot
+![image](https://github.com/ericjeongg/data-analysis-projects/assets/122524536/96832554-0a44-4ee4-81a9-2013c2f6ad2a)
 
 **Repository Contents**
 
