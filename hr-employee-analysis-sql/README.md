@@ -1,6 +1,6 @@
-**SQL Data Analysis Project**
+**HR Employee Data Analysis**
 
-This repository contains a data analysis project that focuses on exploring and analyzing employee data using SQL and visualizing the insights with Power BI. The dataset used in this project is sourced from Github@Irene-arch and includes thousands of records related to employees, such as their names, birth dates, hire dates, termination dates, job titles, and more.
+This repository contains a data analysis project that focuses on exploring and analyzing employee data using SQL and visualizing the insights with Power BI. The dataset used in this project is sourced from [Irene Nafula](https://github.com/Irene-arch) and includes thousands of records related to employees, such as their names, birth dates, hire dates, termination dates, job titles, and more.
 
 **Software**
 
